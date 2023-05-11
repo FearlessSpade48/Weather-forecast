@@ -1,0 +1,16 @@
+Fonts awesome
+   <script
+      src="https://kit.fontawesome.com/ae6157394f.js"
+      crossorigin="anonymous"
+    ></script>
+
+Fonts google 
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700;900&display=swap" rel="stylesheet">
+
+
+api key:
+109d34b31490c1b3bbaa0004c3c0c8e1
+
+api url:
+
+https://api.openweathermap.org/data/2.5/weather?q=$(city)&units=metric&appid=$(APIKey)
